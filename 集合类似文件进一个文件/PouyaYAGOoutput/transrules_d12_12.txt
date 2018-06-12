@@ -1,0 +1,2 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R4:<actedIn>0.876728110599,0.113589624519,1<--['<hasWebsite>**0and<hasWebsite>**1and<actedIn>**0and']..

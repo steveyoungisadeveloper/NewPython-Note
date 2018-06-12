@@ -1,0 +1,2 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R2:<hasOfficialLanguage>0.828402366815,0.196353436182,1<--['<hasWebsite>**0and<hasWebsite>**1and<hasOfficialLanguage>**0and']..

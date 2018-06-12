@@ -1,0 +1,4 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R1:<influences>0.776941747571,0.138278111365,1<--['<isMarriedTo>**0and<isMarriedTo>**1and<influences>**0and']..
+R2:<influences>0.79531772575,0.10272581969,1<--['<isKnownFor>**0and<isKnownFor>**1and<influences>**0and']..
+R3:<influences>0.803225806448,0.0752948291503,1<--['<influences>**0and<isMarriedTo>**1and<isMarriedTo>**0and']..

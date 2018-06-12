@@ -1,0 +1,4 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R0:<isLocatedIn>0.898454831305,0.15780405869,1<--['<hasWebsite>**0and<hasWebsite>**1and<isLocatedIn>**0and']..
+R1:<isLocatedIn>0.964983285327,0.0777542864597,1<--['<isLocatedIn>**0and<diedIn>**1and<diedIn>**0and']..
+

@@ -1,0 +1,2 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R1:<isPoliticianOf>0.983999999921,0.0328087489996,1<--['<hasWebsite>**0and<hasWebsite>**1and<isPoliticianOf>**0and']..

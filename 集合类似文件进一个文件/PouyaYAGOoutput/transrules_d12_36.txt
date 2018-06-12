@@ -1,0 +1,2 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R0:<hasCurrency>0.94589552237,0.99999999998,1<--['<hasCurrency>**0and<hasCurrency>**1and<hasCurrency>**0and']..

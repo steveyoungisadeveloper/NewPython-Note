@@ -1,0 +1,3 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R2:<isInterestedIn>0.842105263047,0.203174603168,1<--['<isKnownFor>**0and<isKnownFor>**1and<isInterestedIn>**0and']..
+R3:<isInterestedIn>0.717948717857,0.177777777772,1<--['<created>**0and<created>**1and<isInterestedIn>**0and']..

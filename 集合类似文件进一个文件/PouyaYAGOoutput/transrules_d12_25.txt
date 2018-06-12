@@ -1,0 +1,4 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R0:<worksAt>0.999999999998,0.999999999998,1<--['<worksAt>**0and<worksAt>**1and<worksAt>**0and']..
+R1:<worksAt>0.908460101412,0.792549476133,1<--['<worksAt>**0and<graduatedFrom>**1and<graduatedFrom>**0and']..
+R5:<worksAt>0.999999999773,0.0102444703143,1<--['<isMarriedTo>**0and<isMarriedTo>**1and<worksAt>**0and']..

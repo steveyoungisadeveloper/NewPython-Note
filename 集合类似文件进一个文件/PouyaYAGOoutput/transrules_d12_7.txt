@@ -1,0 +1,5 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R0:<graduatedFrom>0.931023488149,1.0,1<--['<graduatedFrom>**0and<graduatedFrom>**1and<graduatedFrom>**0and']..
+R1:<graduatedFrom>0.999999999999,0.694634703196,1<--['<graduatedFrom>**0and<worksAt>**1and<worksAt>**0and']..
+R5:<graduatedFrom>0.90229885057,0.0597412480974,1<--['<isMarriedTo>**0and<isMarriedTo>**1and<graduatedFrom>**0and']..
+R7:<graduatedFrom>0.778616352191,0.0235540334855,1<--['<hasChild>**0and<hasChild>**1and<graduatedFrom>**0and']..

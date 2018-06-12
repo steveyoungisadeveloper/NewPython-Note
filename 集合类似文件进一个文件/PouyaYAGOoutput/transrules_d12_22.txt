@@ -1,0 +1,4 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R2:<holdsPoliticalPosition>0.902050113875,0.0752994865943,1<--['<isMarriedTo>**0and<isMarriedTo>**1and<holdsPoliticalPosition>**0and']..
+R3:<holdsPoliticalPosition>0.866323907433,0.0640806236926,1<--['<hasWebsite>**0and<hasWebsite>**1and<holdsPoliticalPosition>**0and']..
+R4:<holdsPoliticalPosition>0.766393442592,0.0355580908917,1<--['<hasChild>**0and<hasChild>**1and<holdsPoliticalPosition>**0and']..

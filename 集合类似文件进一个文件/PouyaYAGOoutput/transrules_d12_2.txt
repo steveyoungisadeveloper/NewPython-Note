@@ -1,0 +1,2 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R1:<created>0.776434061401,0.410885401108,1<--['<hasWebsite>**0and<hasWebsite>**1and<created>**0and']..

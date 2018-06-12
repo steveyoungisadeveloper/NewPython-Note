@@ -1,0 +1,4 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R0:<hasCapital>0.999999999995,0.999999999995,1<--['<hasCapital>**0and<hasCapital>**1and<hasCapital>**0and']..
+R1:<hasCapital>0.985553772055,0.336992316134,1<--['<hasCapital>**0and<diedIn>**1and<diedIn>**0and']..
+R4:<hasCapital>0.980281690113,0.190998902304,1<--['<hasWebsite>**0and<hasWebsite>**1and<hasCapital>**0and']..

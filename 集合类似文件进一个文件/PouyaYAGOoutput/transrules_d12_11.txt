@@ -1,0 +1,4 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+
+R1:<happenedIn>0.987613542519,0.105868814729,1<--['<happenedIn>**0and<diedIn>**1and<diedIn>**0and']..
+

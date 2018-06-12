@@ -1,0 +1,3 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R6:<directed>0.713895312171,0.171143476289,1<--['<isMarriedTo>**0and<isMarriedTo>**1and<directed>**0and']..
+R8:<directed>0.828689370476,0.0202338356095,1<--['<edited>**0and<edited>**1and<directed>**0and']..

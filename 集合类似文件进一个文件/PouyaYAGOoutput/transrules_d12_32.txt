@@ -1,0 +1,6 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R0:<isKnownFor>0.812757201629,0.999999999975,1<--['<isKnownFor>**0and<isKnownFor>**1and<isKnownFor>**0and']..
+R3:<isKnownFor>0.730769230488,0.0481012658216,1<--['<created>**0and<isKnownFor>**1and<isKnownFor>**0and']..
+R4:<isKnownFor>0.94444444392,0.0430379746825,1<--['<isKnownFor>**0and<created>**1and<isKnownFor>**0and']..
+R5:<isKnownFor>0.999999999333,0.0379746835433,1<--['<hasAcademicAdvisor>**0and<hasAcademicAdvisor>**1and<isKnownFor>**0and']..
+R6:<isKnownFor>0.799999999467,0.0303797468347,1<--['<isKnownFor>**0and<created>**1and<created>**0and']..

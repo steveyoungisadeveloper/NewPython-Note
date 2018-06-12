@@ -1,0 +1,2 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R0:<isCitizenOf>0.861592369085,0.101604646358,1<--['<hasWebsite>**0and<hasWebsite>**1and<isCitizenOf>**0and']..

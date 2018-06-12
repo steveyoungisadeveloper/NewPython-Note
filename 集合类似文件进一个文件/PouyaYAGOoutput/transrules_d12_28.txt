@@ -1,0 +1,2 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R6:<edited>0.783625730971,0.0471001757468,1<--['<isMarriedTo>**0and<isMarriedTo>**1and<edited>**0and']..

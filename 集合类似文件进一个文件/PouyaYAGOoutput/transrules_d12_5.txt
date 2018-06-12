@@ -1,0 +1,2 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R0:<playsFor>0.824862928542,0.999991337616,1<--['<isAffiliatedTo>**0and']..

@@ -1,0 +1,2 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R0:<hasAcademicAdvisor>0.966288384509,0.999999999997,1<--['<hasAcademicAdvisor>**0and<hasAcademicAdvisor>**1and<hasAcademicAdvisor>**0and']..

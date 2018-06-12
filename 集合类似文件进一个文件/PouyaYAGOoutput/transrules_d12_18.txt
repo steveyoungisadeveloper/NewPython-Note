@@ -1,0 +1,2 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R0:<hasMusicalRole>0.848223525353,0.526761942651,1<--['<hasWebsite>**0and<hasWebsite>**1and<hasMusicalRole>**0and']..

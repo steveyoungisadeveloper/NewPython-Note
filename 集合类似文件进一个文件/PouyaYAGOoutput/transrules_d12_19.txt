@@ -1,0 +1,2 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R2:<isConnectedTo>0.998886827457,0.277926904811,1<--['<isConnectedTo>**0and<diedIn>**1and<diedIn>**0and']..

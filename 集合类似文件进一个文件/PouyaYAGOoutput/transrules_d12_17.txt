@@ -1,0 +1,5 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R0:<hasChild>0.880220877636,0.999999999999,1<--['<hasChild>**0and<hasChild>**1and<hasChild>**0and']..
+R1:<hasChild>0.741538746069,0.535170848905,1<--['<isMarriedTo>**0and<isMarriedTo>**1and<hasChild>**0and']..
+R2:<hasChild>0.736285432237,0.348438334223,1<--['<hasChild>**0and<isMarriedTo>**1and<isMarriedTo>**0and']..
+R4:<hasChild>0.826347305373,0.0276294714362,1<--['<hasWebsite>**0and<hasWebsite>**1and<hasChild>**0and']..

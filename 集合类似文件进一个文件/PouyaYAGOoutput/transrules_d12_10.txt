@@ -1,0 +1,2 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R6:<wroteMusicFor>0.940809248553,0.181822244068,1<--['<hasWebsite>**0and<hasWebsite>**1and<wroteMusicFor>**0and']..

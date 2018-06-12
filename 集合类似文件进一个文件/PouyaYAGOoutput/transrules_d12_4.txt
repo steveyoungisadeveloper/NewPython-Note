@@ -1,0 +1,9 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+
+R5:<hasGender>0.792795754473,0.0548504698405,1<--['<created>**0and<created>**1and<hasGender>**0and']..
+
+R9:<hasGender>0.948218850402,0.043792213081,1<--['<hasWebsite>**0and<hasWebsite>**1and<hasGender>**0and']..
+
+R14:<hasGender>0.977359938603,0.0220688579561,1<--['<isMarriedTo>**0and<isMarriedTo>**1and<hasGender>**0and']..
+
+

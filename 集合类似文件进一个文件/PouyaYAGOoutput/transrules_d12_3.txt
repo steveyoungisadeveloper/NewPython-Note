@@ -1,0 +1,3 @@
+ruleidx,headpre,SC,HC,#CPrule,CP1...,..
+R0:<hasWebsite>0.881952804497,1.0,1<--['<hasWebsite>**0and<hasWebsite>**1and<hasWebsite>**0and']..
+R1:<hasWebsite>0.319859265051,0.0903581194203,1<--['<created>**0and<created>**1and<hasWebsite>**0and']..
